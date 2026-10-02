@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated workbooks / private alliance data
+DSB_Output*.xlsx
+NMRY_MasterData.xlsx
+NMRY_MasterData_*.xlsx
+*_private.xlsx
+*.log
